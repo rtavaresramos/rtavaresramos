@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Rodrigo Tavares
+<h2 align="left">Hi 👋! My name is Rodrigo Tavares and I'm a Front-end Engineer from Brazil based in Berlin</h2>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Visable Labs
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I could spend an entire year only eating chicken :D
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
