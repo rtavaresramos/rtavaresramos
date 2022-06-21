@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="left">Hi 👋! My name is Rodrigo Tavares and I'm a Front-end Engineer from Brazil based in Berlin</h2>
 Here are some ideas to get you started:
 
