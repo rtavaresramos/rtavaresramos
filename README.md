@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Visable Labs
-- 🌱 I’m currently studying Tailwind UI migration
+- 🌱 I’m currently studying about how to improve performance in Web Development
 - ⚡ Fun fact: I could spend an entire year only eating chicken :D
 
 ###
