@@ -5,14 +5,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying about how to improve performance in Web Development
 - ⚡ Fun fact: I could spend an entire year only eating chicken :D
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=rtavaresramos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=rtavaresramos" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
